@@ -103,5 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:panakot/panakot.github.io.git
+  repository: git@github.com:guadgua/hexo-guadg.git
   branch: site
