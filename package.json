@@ -14,7 +14,7 @@
   "dependencies": {
     "acorn": "^8.8.0",
     "audit": "^0.0.6",
-    "eslint": "^8.25.0",
+    "eslint": "^8.33.0",
     "fix": "^0.0.6",
     "hexo": "^6.3.0",
     "hexo-deployer-git": "^3.0.0",
